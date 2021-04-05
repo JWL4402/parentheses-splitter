@@ -1,0 +1,19 @@
+{
+  "name": "parentheses-splitter",
+  "version": "1.0.0",
+  "description": "A module that can be used to split parentheses into pairs.",
+  "main": "parentheses-splitter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XpertJosh/parentheses-splitter.git"
+  },
+  "author": "Josh",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/XpertJosh/parentheses-splitter/issues"
+  },
+  "homepage": "https://github.com/XpertJosh/parentheses-splitter#readme"
+}
