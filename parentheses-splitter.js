@@ -1,4 +1,9 @@
 module.exports = {
+    /**
+     * Splits parentheses in a string into pairs and stores then as objects.
+     * @param {String} str
+     * @returns {Array} list
+     */
     split: function (str) {
             let openParenthesesList = [];
             let matchList = [];
